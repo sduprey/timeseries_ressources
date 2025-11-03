@@ -18,4 +18,38 @@ IV) More advanced stuff
 	1) Statistical testings : stationnarity, white noise
 	2) VARMA/VEC 
 	3) GARCH for volatility modeling
-	4) Using Prophet for a basis model
+	4) Using Prophet and other tools
+
+
+Content:
+Main practical presentation
+https://github.com/sduprey/timeseries_ressources/blob/main/Presentations/Time%20series%20analysis.pdf
+Main theoretical presentation (most of it optional)
+https://github.com/sduprey/timeseries_ressources/blob/main/Presentations/Time%20series%20analysis%20theory.pdf
+
+
+Notebook directories per part I, II, III, IV
+
+
+I) Notebook directories for part I
+Martingales
+Generalities
+Markov
+
+II) Notebook directories for part II
+DeterministicTrend
+MovingAverage
+Stationnarity
+CrossValidation
+
+III) Notebook directories for part III
+LinearRegression
+ARIMA
+FeaturesEngineering
+MLAI
+
+IV) Notebook directories for part IV
+Cointegration
+VARMA
+GARCH
+Prophet
