@@ -1,0 +1,21 @@
+Methodology :
+
+I) Understanding when randomness breaks any decent AI endeavour
+	1) What is a brownian motion, how it is constructed
+	2) Understand what is called the 'trivial forecasting' 
+
+II) Understanding what stationnarity
+	1) Longstanding modelisation needs a stable distribubtion
+	2) Understanding the trade-off between getting stationar data and retraining
+	3) Understanding the process of stationnarization (differentiation will cancel deterministic trend and make distribution momentums stationar)
+
+III) Understanding the timeseries AI framework
+	1) like AI in general, except we only do walk-forward validation
+	2) Understanding why stationnarity will always make AI more relevant
+	3) Understanding ARIMA : a simple auto regression
+
+IV) More advanced stuff
+	1) Statistical testings : stationnarity, white noise
+	2) VARMA/VEC 
+	3) GARCH for volatility modeling
+	4) Using Prophet for a basis model
